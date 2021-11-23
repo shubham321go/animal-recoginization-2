@@ -1,0 +1,28 @@
+#head_div{
+    background-color: grey;
+}
+.main_div{
+    background-color: lightgray;
+}
+body{
+    font-family: 'Praise', cursive;
+}
+.main_div button{
+    font-size:20px;
+    width:80px;
+    background-color: black;
+    color: rgb(255, 255, 255);
+
+}
+.copy_rigth_footer
+{
+    position:fixed;
+    color:grey;
+    bottom:0;
+    width:100%;
+    font-size:18px;
+    background-color:white;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px grey;
+}
